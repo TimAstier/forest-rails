@@ -1,6 +1,8 @@
 # Change Log
 
 ## [Unreleased]
+### Changed
+- Pie Charts - Display enum labels instead of integers for a "group by" on enum field.
 
 ## RELEASE 1.3.45 - 2016-10-14
 ### Added
