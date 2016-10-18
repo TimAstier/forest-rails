@@ -1,6 +1,8 @@
 # Change Log
 
 ## [Unreleased]
+### Changed
+- Filters - Add the new date filters protocol.
 
 ## RELEASE 1.3.45 - 2016-10-14
 ### Added
